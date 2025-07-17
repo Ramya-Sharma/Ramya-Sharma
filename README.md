@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Ramya Sharma</h1>
-<h3 align="center">  🐍 Python Developer | 🤖 AI/ML Enthusiast | 💻 Java Coder | 🚀 Exploring Generative AI</h3>
+<h3 align="center">   🤖 AI/ML Enthusiast | 💻 Java Coder | 🚀 Exploring Generative AI</h3>
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/ramya-sharma-1242ba289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![LinkedIn](www.linkedin.com/in/ramya-sharma-1242ba289)  
 ✉️ Email: sharmaramya25@gmail.com
 
 ---
